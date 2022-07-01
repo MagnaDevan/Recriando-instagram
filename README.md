@@ -1,6 +1,6 @@
 # Recriando página inicial do Instagram 🙃
 
-Esse é o repositório da nossa aula de Flexbox, na qual vamos fazer a interface de login do Instagram! 
+Esse é o repositório da aula de Flexbox pelo bootcamp Impulso Javascript Evolution, na qual recriamos a interface de login do Instagram! 
 
 ### Lingaguens de programação utilizadas:
 
